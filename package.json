@@ -1,6 +1,6 @@
 {
   "name": "@ddatabase/core",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "dDatabase is a secure, distributed append-only log",
   "main": "index.js",
   "dependencies": {
